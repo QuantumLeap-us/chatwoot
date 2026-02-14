@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "grok2_image": {
+      "command": "npx",
+      "args": [
+        "grok2-image-mcp-server"
+      ],
+      "env": {
+        "XAIAPI_KEY": "sk-1jgTN-WySvd5ydwkv4DTrKMY--suzJUJ",
+        "XAIAPI_BASE_URL": "https://glk.jia4u.de/v1"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
